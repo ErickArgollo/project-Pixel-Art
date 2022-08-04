@@ -1,4 +1,4 @@
-# Pixel-Art
+# Seja muito bem-vindo(a) ao meu projeto Pixel-Art! :rocket:
 
 
 #### <p>Esse projeto tem como objetivo a interação com um quadro de pixels, 4 cores estão presentes na página sendo que a cor preta é fixa. As demais cores são geradas automáticamente, é possível limpar os quadros e aumentar a quantidade de pixels. Além dessas funcionalidades decidi adicionar como bônus um background dinâmico, onde a cor é modificada de acordo com as cores dinâmicas da paleta de cores.</p>
@@ -58,6 +58,5 @@
   
 ##  Autor
 <a href="https://www.linkedin.com/in/erick-argollo/">
- <br />
  <b>Erick Argollo dos Santos Rangel</b></a> <a href="https://www.linkedin.com/in/erick-argollo/"></a>
- <br />
+ 
