@@ -1,17 +1,13 @@
 # Pixel-Art
 
-<p>
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/ErickArgollo/project-Pixel-Art">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickArgollo/project-Pixel-Art?color=%2304D361">
- <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ErickArgollo/project-Pixel-Art">
-<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> </p>
 
-<p>Esse projeto tem como objetivo a interação com um quadro de pixels, 4 cores estão presentes na página sendo que a cor preta é fixa. As demais cores são geradas automáticamente, é possível limpar os quadros e aumentar a quantidade de pixels. Além dessas funcionalidades decidi adicionar como bônus um background dinâmico, onde a cor é modificada de acordo com as cores dinâmicas da paleta de cores.</p>
+#### <p>Esse projeto tem como objetivo a interação com um quadro de pixels, 4 cores estão presentes na página sendo que a cor preta é fixa. As demais cores são geradas automáticamente, é possível limpar os quadros e aumentar a quantidade de pixels. Além dessas funcionalidades decidi adicionar como bônus um background dinâmico, onde a cor é modificada de acordo com as cores dinâmicas da paleta de cores.</p>
 
 ## Link para acessar o projeto
+### <b> <a href="https://erickargollo.github.io/project-Pixel-Art/">Pixel Art</a> <b> <br>
 
 ## Screenshot
-
+![ScreenShot](https://github.com/ErickArgollo/project-Pixel-Art/blob/main/pixels.png)
 ## Objetivos
   * Criar paleta de cores com 4 cores, sendo preto a primeira (pré-selecionada) e outras três cores randômicas;
   * Criar um board medindo 5x5 unidades;
