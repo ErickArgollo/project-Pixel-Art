@@ -1,0 +1,80 @@
+@keyframes color {
+    0%{
+        background-position: 0% 50%;
+    }
+    50%{
+       background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0% 50%;
+    }
+}
+
+
+body {
+    animation: color 7s ease infinite;
+    background-color: black;
+    background-size: 300% 300%;
+    
+}
+
+header {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 10px black;
+    font-size: 35px;
+    font-weight: bolder;
+    
+    
+}
+
+#color-palette{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(10, auto);
+    height: 60px;
+    width: 100%;
+}
+
+.color {
+    width: 60px;
+    height : 100%;
+    display : inline-block;
+    border : 1px solid black;
+    border-radius : 100%;
+    margin-right: 10px;
+    
+}
+
+.color:hover {
+    border: 2px solid white;
+    transform: translateY(-12px);
+}
+
+#pixel-board {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(5, 42px); 
+    gap: 3px;
+
+}
+
+.pixel {
+    display: inline-block;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
+
+.pixel:hover {
+    border: 2px solid black;
+}
+
+#inputs{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
