@@ -4,7 +4,7 @@
 #### <p>Esse projeto tem como objetivo a interação com um quadro de pixels, 4 cores estão presentes na página sendo que a cor preta é fixa. As demais cores são geradas automáticamente, é possível limpar os quadros e aumentar a quantidade de pixels. Além dessas funcionalidades decidi adicionar como bônus um background dinâmico, onde a cor é modificada de acordo com as cores dinâmicas da paleta de cores.</p>
 
 ## Link para acessar o projeto
-### <b> <a href="https://erickargollo.github.io/project-Pixel-Art/">Pixel Art</a> <b> <br>
+### <b> <a href="https://erickargollo.github.io/project-Pixel-Art/">Pixel Art</a> </b> <br>
 
 ## Screenshot
 ![ScreenShot](https://github.com/ErickArgollo/project-Pixel-Art/blob/main/pixels.png)
