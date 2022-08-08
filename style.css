@@ -12,6 +12,7 @@
 
 
 body {
+    background-attachment: fixed;
     animation: color 7s ease infinite;
     background-color: black;
     background-size: 300% 300%;
